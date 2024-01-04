@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:14:08.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="G37iI1K6RkWb2JvpzzFt" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T11:08:21.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9vKK1xyk4AQ4Z2jcQUtf" version="22.1.16" type="github">
   <diagram name="Pagină-1" id="rfivVc2iWE5Ns3co3eqO">
     <mxGraphModel dx="1877" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="vBTmM8yBKoALR404kPfL-5" value="&lt;b&gt;FLIGHT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vBTmM8yBKoALR404kPfL-6" value="&lt;b&gt;DEPARTURE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vBTmM8yBKoALR404kPfL-6" value="&lt;b&gt;DESTINATION&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vBTmM8yBKoALR404kPfL-7" value="&lt;b&gt;PASSENGER&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="vBTmM8yBKoALR404kPfL-9" value="&lt;b&gt;TICKET&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vBTmM8yBKoALR404kPfL-10" value="&lt;b&gt;DESTINATION&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vBTmM8yBKoALR404kPfL-10" value="&lt;b&gt;DEPARTURE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vBTmM8yBKoALR404kPfL-11" value="&lt;b&gt;ARRIVAL&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
