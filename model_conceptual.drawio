@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T10:25:59.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="91viOhJ4axz3VopfdzfV" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T10:33:45.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-S3XttKah9n1zYFvZwhX" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2250" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -876,7 +876,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rugXFH_IAZ6Pe9hVT8bW-246" value="flight_crew" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="-120" width="250" height="170" as="geometry" />
+          <mxGeometry x="250" y="-220" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="rugXFH_IAZ6Pe9hVT8bW-247" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="rugXFH_IAZ6Pe9hVT8bW-246">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -915,6 +915,18 @@
         <mxCell id="rugXFH_IAZ6Pe9hVT8bW-255" value="crew_id integer NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="rugXFH_IAZ6Pe9hVT8bW-253">
           <mxGeometry x="30" width="220" height="50" as="geometry">
             <mxRectangle width="220" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rugXFH_IAZ6Pe9hVT8bW-256" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rugXFH_IAZ6Pe9hVT8bW-66" target="rugXFH_IAZ6Pe9hVT8bW-253">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-20" y="50" as="sourcePoint" />
+            <mxPoint x="80" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rugXFH_IAZ6Pe9hVT8bW-257" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rugXFH_IAZ6Pe9hVT8bW-76" target="rugXFH_IAZ6Pe9hVT8bW-250">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="580" y="70" as="sourcePoint" />
+            <mxPoint x="680" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
