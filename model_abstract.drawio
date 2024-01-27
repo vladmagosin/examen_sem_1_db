@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T13:25:38.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Uf4SFjbLF2h35UROKPUa" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T13:42:24.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bRyPARQiuUF4xLxzHLg6" version="22.1.21" type="github">
   <diagram name="Pagină-1" id="rfivVc2iWE5Ns3co3eqO">
     <mxGraphModel dx="1877" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,13 +76,13 @@
             <mxPoint x="340" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vlxqZplYeP_B79urykY-12" value="" style="fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vBTmM8yBKoALR404kPfL-5" target="vBTmM8yBKoALR404kPfL-4">
+        <mxCell id="2vlxqZplYeP_B79urykY-13" value="" style="fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=0.005;entryY=0.15;entryDx=0;entryDy=0;exitX=0.855;exitY=0.99;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vBTmM8yBKoALR404kPfL-3" target="vBTmM8yBKoALR404kPfL-5">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="240" y="520" as="sourcePoint" />
             <mxPoint x="340" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vlxqZplYeP_B79urykY-13" value="" style="fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=0.005;entryY=0.15;entryDx=0;entryDy=0;exitX=0.855;exitY=0.99;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vBTmM8yBKoALR404kPfL-3" target="vBTmM8yBKoALR404kPfL-5">
+        <mxCell id="2vlxqZplYeP_B79urykY-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vBTmM8yBKoALR404kPfL-5" target="vBTmM8yBKoALR404kPfL-4">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="240" y="520" as="sourcePoint" />
             <mxPoint x="340" y="420" as="targetPoint" />
